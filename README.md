@@ -9,25 +9,30 @@ PS - This is going to be very women centric. I like to seek out, celebrate, and 
 I wrote a Medium Article on [my story](https://medium.com/@marissa.biesecker/becoming-developer-ba1d4c2ab5fb). And developed [my own website](https://www.marissabiesecker.com/) where I try to code and share more, but it is still very much a work in progress, like myself!
 
 ### Initial Resources and Schools 
-* This will be a combination of what I did to get started and what I'd recommend to get started now that I know what I didn't know!
+* This will be a combination of what I did to get started and what I'd recommend to get started now that I know now that I didn't know then!
   1. [SheCodes](https://www.shecodes.io/) - I have provided technical assistance for this school when in-person classes were still possible. I wish I had Matt helping and explaining to me from Day 1! I started first the Google Doc and now this repo as an extension of that assistance!
 
 ### Favorite Resources
-  1. [JustJavaScript](https://justjavascript.com/) - newsletters by Dan Abramov & Maggie Appleton (React) about how JS works. Sign up to receive drafts as they work on building the course. (He doesn’t recommend this for early beginners, so if you sign up and feel lost, don’t despair! You might just need to do some extra learning to make the most of it!) HIGHLY RECOMMEND!
+  1. [JustJavaScript](https://justjavascript.com/) - newsletters by Dan Abramov & Maggie Appleton (React) about how JS works. Sign up to receive drafts as they work on building the course. (He doesn’t recommend this for early beginners, so if you sign up and feel lost, don’t despair! You might just need to do some extra learning to make the most of it!) HIGHLY RECOMMEND! **I'm not sure if these are still available because they are iterating on this...
 
 ### Communities
   1. [Progress](https://www.sparklabsco.com/) - I joined this community of women in tech shortly before the Pandemic and it’s been such an incredibly helpful and supportive group.
   2. [Women Who Code](https://www.womenwhocode.com/) - One of the first communities I joined.
+  * Find small local communities and/or meetups for networking, building relationships, and potential opportunities!
 
 
 ### Books
   1. [Eloquent JavaScript](https://eloquentjavascript.net/) - read most of this book early on when I was learning JS.
   2. [Sprint](https://www.goodreads.com/book/show/25814544-sprint) - a design book, but it's really about solving problems in a week. Read and took notes!
+  3. [The Object Oriented Thought Process](https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272) - a really great book on understanding the concepts of Object Oriented Programming that explains base concepts, good design :purple_heart:, patterns, and all with great examples.
+  4. [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) - a nice introductory book to the language complete with very helpful exercieses.
+  5. [99 bottles](https://sandimetz.com/99bottles) - next in the step of practicing OOP concepts.
 
 ### Websites
   1. [Smashing Magazine](https://www.smashingmagazine.com/) - Vitaly Friedman, co-founder and editor in chief of this website and eBook publisher, taught a master class at the design school I attended, and introduced us to his site, full of resources and content for both designers and developers, and even told us inside stories about their own redesigns. 
   2. [CSS Tricks](https://css-tricks.com/) - I visit this site almost daily. Their flex box and grid guides are AMAZING.
   3. [2ality Javascript blog](https://2ality.com/index.html) - I find myself coming back to this blog a lot to understand more about the quirks of JS.
+  4. [SourceMaking](https://sourcemaking.com/) - A good blog on design patterns for software projects.
 
 ### Tools
   1. [CSS clip-path tool](https://bennettfeely.com/clippy/) - A tool to help with making/using clip paths.
@@ -48,11 +53,15 @@ I wrote a Medium Article on [my story](https://medium.com/@marissa.biesecker/bec
 
 ### More People Inspiration
   1. [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
-  2. [Grade Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
+  2. [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
 
 ### Project Inspiration & Ideas
   1. Personal website/portfolio site - Build your first web page about yourself or something your interested in- expand upon it, try it in a framework (if you are ready), try building one or another new one! Here’s [my repo](https://github.com/maribies/site-personal) that I’ve been building in React, but if you look closely at the history, I started it before attempting the framework!)
   2. Feeling more collaborative? Checkout [trending repos on GitHub](https://github.com/trending/javascript?since=daily) (filtered to JavaScript). Also look out for repos with tags that say good for beginners. And don’t be afraid to poke around for projects that fit your passions!
 
-  ***Lot's more information coming to share... 
+  ***Lot's more information coming to share...
+
+  ### Practicing
+  * Because sometimes practicing little chunks is fun and less stressful than entire projects!
+    1. [exercism](https://exercism.io/) - 51 languages and mentorship!
 
